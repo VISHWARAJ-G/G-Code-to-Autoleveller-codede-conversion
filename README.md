@@ -1,4 +1,4 @@
-# G-Code-to-Autoleveller-codede-conversion
+# G-Code-to-Autoleveller-code-conversion
 # Aim
 To convert the G-Code into Auto leveler Code using Autoleveller software.
 # Software Required
